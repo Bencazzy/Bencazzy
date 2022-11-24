@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **AstroJS and Typescript**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
