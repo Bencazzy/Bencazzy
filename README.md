@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bencazzy</h1>
 <h3 align="center">A beginner programmer and student from Hungary</h3>
 
-- 🔭 I’m currently working on **my website**
+- 🔭 I’m currently working on **web projects**
 
 - 🌱 I’m currently learning **AstroJS and Typescript**
 
